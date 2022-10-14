@@ -3,8 +3,8 @@
 
 Whether you are a seasoned open source professional, an enthusiastic community contributor, or dipping your toes in for the very first time, there is an opportunity to participate in Hacktoberfest.
 
-Register Yourself:-  https://hacktoberfest.com/participation/
-Download the Event Kit:- https://hacktoberfest.com/_next/static/media/event-kit.4f2bab5f.zip
+- [Register Yourself](https://hacktoberfest.com/participation/)
+- [Download the Event Kit](https://hacktoberfest.com/_next/static/media/event-kit.4f2bab5f.zip)
 
 <h2 align="center">How to Participate:</h2>
 
